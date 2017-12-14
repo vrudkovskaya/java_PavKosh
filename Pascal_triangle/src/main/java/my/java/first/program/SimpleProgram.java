@@ -1,3 +1,5 @@
+package my.java.first.program;
+
 public class SimpleProgram {
 
   public static void main (String[] args){
